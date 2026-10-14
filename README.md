@@ -1,3 +1,9 @@
+**中文版清单 → [README.zh-CN.md](README.zh-CN.md)**
+
+> 本仓库 fork 自 [wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering)，以下为英文原版清单。
+
+---
+
 ## Reverse Engineering resources  
 [![Awesome](https://2.bp.blogspot.com/-nz0jFFFA4Hc/WHubiaz8ecI/AAAAAAAAB08/g2erX6roVBYCfwWjIGUOBYMkcB7ghRL2wCLcB/s1600/reverse%2Bengineering.png)](http://kalitut.com)
 A curated list of awesome reversing resources   
